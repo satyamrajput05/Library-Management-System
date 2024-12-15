@@ -1,5 +1,5 @@
 # Library-Management-System
-Projec Objective:- The objective of the Library Management System is to develop a user-friendly, efficient, and secure software application that helps manage library operations digitally. This system aims to:
+Project Objective:- The objective of the Library Management System is to develop a user-friendly, efficient, and secure software application that helps manage library operations digitally. This system aims to:
 * Simplify Book Management: Enable easy addition, retrieval, and organization of books, including their ID, title, and author details.
 * Streamline Searching: Provide a quick and accurate search functionality to locate books using unique identifiers like Book ID.
 * Enhance User Interaction: Create an interactive and simple interface for users to perform actions like viewing available books and extracting book details.
